@@ -1,0 +1,41 @@
+2023-04-03 00:16:18.506244 - Initialized conversion of CBT437
+2023-04-03 00:16:18.791288 - Received CBT.V504.FILE437.PDS from FILE437.XMI 
+2023-04-03 00:16:18.793712 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:16:18.795396 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/$$$DOC
+2023-04-03 00:16:18.796416 - Found @FILE437.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/@FILE437
+2023-04-03 00:16:18.797391 - Found COMPRESS.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/COMPRESS
+2023-04-03 00:16:18.798618 - Found COPYFBVB.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/COPYFBVB
+2023-04-03 00:16:18.799597 - Found IEFJFRQ.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/IEFJFRQ
+2023-04-03 00:16:18.800742 - Found INVOKE.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/INVOKE
+2023-04-03 00:16:18.801710 - Found IRXJCLM.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/IRXJCLM
+2023-04-03 00:16:18.802794 - Found ISTEXCA$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/ISTEXCA$
+2023-04-03 00:16:18.803928 - Found ISTEXCAA.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/ISTEXCAA
+2023-04-03 00:16:18.805188 - Found JJ$CMATH.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/JJ$CMATH
+2023-04-03 00:16:18.806425 - Found JJ$FMATH.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/JJ$FMATH
+2023-04-03 00:16:18.807480 - Found JJ$MMATH.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/JJ$MMATH
+2023-04-03 00:16:18.808711 - Found JSCH.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/JSCH
+2023-04-03 00:16:18.810059 - Found MPFNTFY.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/MPFNTFY
+2023-04-03 00:16:18.810075 - Found MPFNTFY$.bin containing application/octet-stream, moved to PDS/MPFNTFY$
+2023-04-03 00:16:18.812498 - Found NODSI.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/NODSI
+2023-04-03 00:16:18.813709 - Found NODSI$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/NODSI$
+2023-04-03 00:16:18.815160 - Found NODSI00.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/NODSI00
+2023-04-03 00:16:18.816407 - Found OPSYNBRI.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/OPSYNBRI
+2023-04-03 00:16:18.817646 - Found PARMTZ.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/PARMTZ
+2023-04-03 00:16:18.818976 - Found PARMTZ$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/PARMTZ$
+2023-04-03 00:16:18.821029 - Found SUBMIT.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/SUBMIT
+2023-04-03 00:16:18.822323 - Found UPDCREAT.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/UPDCREAT
+2023-04-03 00:16:18.823654 - Found UPDSTATS.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/UPDSTATS
+2023-04-03 00:16:18.825096 - Found VMCP.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/VMCP
+2023-04-03 00:16:18.826249 - Found VMCP$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/VMCP$
+2023-04-03 00:16:18.827543 - Found WHOHAS.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/WHOHAS
+2023-04-03 00:16:18.828880 - Found WHOHAS$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/WHOHAS$
+2023-04-03 00:16:18.830284 - Found ZZSA$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/ZZSA$
+2023-04-03 00:16:18.830294 - Found ZZSACARD.bin containing application/octet-stream, moved to PDS/ZZSACARD
+2023-04-03 00:16:18.838503 - Found ZZSADIMG.xmi (application/xmit) in CBT.V504.FILE437.PDS
+2023-04-03 00:16:18.845586   - Received RECFM=U data, stored XMIT file as CBT437/ZZSADIMG.xmi
+2023-04-03 00:16:18.846567 - Found ZZSALIPL.jcl (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/ZZSALIPL
+2023-04-03 00:16:18.847770 - Found ZZSAPAC$.txt (text/plain) in CBT.V504.FILE437.PDS, moved to PDS/ZZSAPAC$
+2023-04-03 00:16:18.847782 - Found ZZSAPACK.zip (application/zip), trying to unzip
+2023-04-03 00:16:18.847914 - Found ZZSAPACK.zip (application/zip), extracting to CBT437/ZZSAPACK
+2023-04-03 00:16:18.855843 - Found ZZSATIMG.xmi (application/xmit) in CBT.V504.FILE437.PDS
+2023-04-03 00:16:18.862996   - Received RECFM=U data, stored XMIT file as CBT437/ZZSATIMG.xmi
